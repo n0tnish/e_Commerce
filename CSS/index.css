@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.img-banner {
+    display: none;
+
+}
+
+.img-info  {
+    width: 100% ;
+    padding: 0px 30px 20px;
+}
+.slog{
+    font-family: @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@0;1&family=Playfair+Display&display=swap');
+    font-size: 50px;
+    color: #111;
+    
+
+}
+}
