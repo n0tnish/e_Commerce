@@ -17,10 +17,10 @@
     padding: 0px 30px 20px;
 }
 .slog{
-    font-family: @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@0;1&family=Playfair+Display&display=swap');
-    font-size: 50px;
+    font-family: @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@0;1&family=Lora:ital@0;1&family=Playfair+Display&display=swap');
+    font-size: 16px;
     color: #111;
+    line-height: 44px;
     
-
 }
 }
